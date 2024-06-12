@@ -1,0 +1,380 @@
+Departure Location,Arrival Location,Airline,Flight Number,Departure Date,Departure Time,Arrival Time,Flight Duration,Price,Ticket Class
+Hồ Chí Minh,Hà Nội,,VJ1132,Hà Nội - HAN,01:20,03:30,A320-100/200, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ1136,Hà Nội - HAN,01:20,03:30,A320-100/200, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ182,Hà Nội - HAN,04:55,07:10,A321, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ160,Hà Nội - HAN,21:55,00:05,A320-100/200, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ184,Hà Nội - HAN,22:15,00:25,A330, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ192,Hà Nội - HAN,22:15,00:25,A320-100/200, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ176,Hà Nội - HAN,22:20,00:10,A321, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ162,Hà Nội - HAN,22:50,01:00,A321, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ194,Hà Nội - HAN,23:00,01:10,A320-100/200, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ1138,Hà Nội - HAN,23:25,01:35,A320-100/200, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ180,Hà Nội - HAN,23:55,02:05,A320-100/200, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VN270,Hà Nội - HAN,23:00,01:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VU750,Hà Nội - HAN,05:45,07:50,A321, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VU720,Hà Nội - HAN,18:50,21:10,A321, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ198,Hà Nội - HAN,05:25,07:35,A320-100/200, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ120,Hà Nội - HAN,06:00,08:10,A320-100/200, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ172,Hà Nội - HAN,12:10,14:20,A330, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ134,Hà Nội - HAN,12:30,14:40,A330, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ136,Hà Nội - HAN,13:20,15:30,A330, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ140,Hà Nội - HAN,14:40,16:50,A321, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ142,Hà Nội - HAN,15:30,17:40,A320-100/200, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ144,Hà Nội - HAN,16:35,18:45,A330, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ148,Hà Nội - HAN,16:50,18:55,A321, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ154,Hà Nội - HAN,18:30,20:40,A320-100/200, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ156,Hà Nội - HAN,19:40,21:50,A330, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ166,Hà Nội - HAN,20:15,22:25,A320-100/200, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ158,Hà Nội - HAN,20:50,23:00,A320-100/200, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VN256,Hà Nội - HAN,20:45,22:50,350, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN260,Hà Nội - HAN,21:00,23:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7216,Hà Nội - HAN,21:30,23:35,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN224,Hà Nội - HAN,22:00,00:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN270,Hà Nội - HAN,23:00,01:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,QH202,Hà Nội - HAN,05:25,07:35,A321, VND,0kg
+Hồ Chí Minh,Hà Nội,,QH286,Hà Nội - HAN,21:55,00:05,A320-100/200, VND,0kg
+Hồ Chí Minh,Hà Nội,,VJ122,Hà Nội - HAN,07:00,09:10,A330, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ126,Hà Nội - HAN,08:45,11:00,A321, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ1142,Hà Nội - HAN,09:30,11:40,A320-100/200, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ128,Hà Nội - HAN,09:45,11:55,A330, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VJ130,Hà Nội - HAN,10:10,12:20,A330, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VU750,Hà Nội - HAN,05:45,07:50,A321, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VU720,Hà Nội - HAN,18:50,21:10,A321, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,QH278,Hà Nội - HAN,20:35,22:45,A321, VND,0kg
+Hồ Chí Minh,Hà Nội,,VN204,Hà Nội - HAN,05:00,07:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7204,Hà Nội - HAN,06:25,08:30,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN256,Hà Nội - HAN,20:45,22:50,350, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN260,Hà Nội - HAN,21:00,23:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7216,Hà Nội - HAN,21:30,23:35,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN224,Hà Nội - HAN,22:00,00:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN270,Hà Nội - HAN,23:00,01:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN204,Hà Nội - HAN,05:00,07:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN206,Hà Nội - HAN,06:00,08:10,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7204,Hà Nội - HAN,06:25,08:30,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN212,Hà Nội - HAN,12:00,14:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN252,Hà Nội - HAN,16:40,19:10,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN254,Hà Nội - HAN,17:00,19:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7220,Hà Nội - HAN,17:30,19:35,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN258,Hà Nội - HAN,19:00,21:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN262,Hà Nội - HAN,19:35,21:40,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN220,Hà Nội - HAN,20:00,22:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN256,Hà Nội - HAN,20:45,22:50,350, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN260,Hà Nội - HAN,21:00,23:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7216,Hà Nội - HAN,21:30,23:35,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN224,Hà Nội - HAN,22:00,00:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN270,Hà Nội - HAN,23:00,01:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,QH204,Hà Nội - HAN,07:45,09:55,A320-100/200, VND,0kg
+Hồ Chí Minh,Hà Nội,,QH242,Hà Nội - HAN,13:35,15:45,A320-100/200, VND,0kg
+Hồ Chí Minh,Hà Nội,,QH244,Hà Nội - HAN,15:15,17:25,A321, VND,0kg
+Hồ Chí Minh,Hà Nội,,VJ1132,Hà Nội - HAN,01:20,03:30,A320-100/200, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ1136,Hà Nội - HAN,01:20,03:30,A320-100/200, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ182,Hà Nội - HAN,04:55,07:10,A321, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ160,Hà Nội - HAN,21:55,00:05,A320-100/200, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ184,Hà Nội - HAN,22:15,00:25,A330, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ192,Hà Nội - HAN,22:15,00:25,A320-100/200, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ176,Hà Nội - HAN,22:20,00:10,A321, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ162,Hà Nội - HAN,22:50,01:00,A321, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ194,Hà Nội - HAN,23:00,01:10,A320-100/200, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ1138,Hà Nội - HAN,23:25,01:35,A320-100/200, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ180,Hà Nội - HAN,23:55,02:05,A320-100/200, VND,20kg
+Hồ Chí Minh,Hà Nội,,VN204,Hà Nội - HAN,05:00,07:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN206,Hà Nội - HAN,06:00,08:10,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7204,Hà Nội - HAN,06:25,08:30,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN240,Hà Nội - HAN,07:00,09:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN208,Hà Nội - HAN,08:00,10:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN244,Hà Nội - HAN,09:00,11:20,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7252,Hà Nội - HAN,09:30,11:35,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN246,Hà Nội - HAN,11:00,13:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN212,Hà Nội - HAN,12:00,14:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN216,Hà Nội - HAN,16:00,18:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN252,Hà Nội - HAN,16:40,19:10,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN254,Hà Nội - HAN,17:00,19:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7220,Hà Nội - HAN,17:30,19:35,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN218,Hà Nội - HAN,18:00,20:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN258,Hà Nội - HAN,19:00,21:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN262,Hà Nội - HAN,19:35,21:40,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN220,Hà Nội - HAN,20:00,22:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN256,Hà Nội - HAN,20:45,22:50,350, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN260,Hà Nội - HAN,21:00,23:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7216,Hà Nội - HAN,21:30,23:35,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN224,Hà Nội - HAN,22:00,00:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN270,Hà Nội - HAN,23:00,01:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VJ198,Hà Nội - HAN,05:25,07:35,A320-100/200, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ120,Hà Nội - HAN,06:00,08:10,A320-100/200, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ172,Hà Nội - HAN,12:10,14:20,A330, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ134,Hà Nội - HAN,12:30,14:40,A330, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ136,Hà Nội - HAN,13:20,15:30,A330, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ140,Hà Nội - HAN,14:40,16:50,A321, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ142,Hà Nội - HAN,15:30,17:40,A320-100/200, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ144,Hà Nội - HAN,16:35,18:45,A330, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ148,Hà Nội - HAN,16:50,18:55,A321, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ154,Hà Nội - HAN,18:30,20:40,A320-100/200, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ156,Hà Nội - HAN,19:40,21:50,A330, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ166,Hà Nội - HAN,20:15,22:25,A320-100/200, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ158,Hà Nội - HAN,20:50,23:00,A320-100/200, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ122,Hà Nội - HAN,07:00,09:10,A330, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ126,Hà Nội - HAN,08:45,11:00,A321, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ1142,Hà Nội - HAN,09:30,11:40,A320-100/200, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ128,Hà Nội - HAN,09:45,11:55,A330, VND,20kg
+Hồ Chí Minh,Hà Nội,,VJ130,Hà Nội - HAN,10:10,12:20,A330, VND,20kg
+Hồ Chí Minh,Hà Nội,,VN204,Hà Nội - HAN,05:00,07:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN206,Hà Nội - HAN,06:00,08:10,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7204,Hà Nội - HAN,06:25,08:30,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN240,Hà Nội - HAN,07:00,09:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN208,Hà Nội - HAN,08:00,10:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN244,Hà Nội - HAN,09:00,11:20,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7252,Hà Nội - HAN,09:30,11:35,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN210,Hà Nội - HAN,10:00,12:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN246,Hà Nội - HAN,11:00,13:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN212,Hà Nội - HAN,12:00,14:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN248,Hà Nội - HAN,13:00,15:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN214,Hà Nội - HAN,14:00,16:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN250,Hà Nội - HAN,15:00,17:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN216,Hà Nội - HAN,16:00,18:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN252,Hà Nội - HAN,16:40,19:10,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN254,Hà Nội - HAN,17:00,19:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7220,Hà Nội - HAN,17:30,19:35,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN218,Hà Nội - HAN,18:00,20:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN258,Hà Nội - HAN,19:00,21:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN262,Hà Nội - HAN,19:35,21:40,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN220,Hà Nội - HAN,20:00,22:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN256,Hà Nội - HAN,20:45,22:50,350, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN260,Hà Nội - HAN,21:00,23:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7216,Hà Nội - HAN,21:30,23:35,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN224,Hà Nội - HAN,22:00,00:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN270,Hà Nội - HAN,23:00,01:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN204,Hà Nội - HAN,05:00,07:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN206,Hà Nội - HAN,06:00,08:10,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7204,Hà Nội - HAN,06:25,08:30,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN240,Hà Nội - HAN,07:00,09:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN208,Hà Nội - HAN,08:00,10:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN244,Hà Nội - HAN,09:00,11:20,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7252,Hà Nội - HAN,09:30,11:35,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN210,Hà Nội - HAN,10:00,12:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN246,Hà Nội - HAN,11:00,13:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN212,Hà Nội - HAN,12:00,14:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN248,Hà Nội - HAN,13:00,15:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN214,Hà Nội - HAN,14:00,16:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN250,Hà Nội - HAN,15:00,17:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN216,Hà Nội - HAN,16:00,18:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN252,Hà Nội - HAN,16:40,19:10,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN254,Hà Nội - HAN,17:00,19:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7220,Hà Nội - HAN,17:30,19:35,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN218,Hà Nội - HAN,18:00,20:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN258,Hà Nội - HAN,19:00,21:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN262,Hà Nội - HAN,19:35,21:40,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN220,Hà Nội - HAN,20:00,22:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN256,Hà Nội - HAN,20:45,22:50,350, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN260,Hà Nội - HAN,21:00,23:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7216,Hà Nội - HAN,21:30,23:35,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN224,Hà Nội - HAN,22:00,00:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN270,Hà Nội - HAN,23:00,01:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,QH202,Hà Nội - HAN,05:25,07:35,A321, VND,20kg
+Hồ Chí Minh,Hà Nội,,QH204,Hà Nội - HAN,07:45,09:55,A320-100/200, VND,20kg
+Hồ Chí Minh,Hà Nội,,QH242,Hà Nội - HAN,13:35,15:45,A320-100/200, VND,20kg
+Hồ Chí Minh,Hà Nội,,QH244,Hà Nội - HAN,15:15,17:25,A321, VND,20kg
+Hồ Chí Minh,Hà Nội,,QH278,Hà Nội - HAN,20:35,22:45,A321, VND,20kg
+Hồ Chí Minh,Hà Nội,,QH286,Hà Nội - HAN,21:55,00:05,A320-100/200, VND,20kg
+Hồ Chí Minh,Hà Nội,,QH202,Hà Nội - HAN,05:25,07:35,A321, VND,40kg
+Hồ Chí Minh,Hà Nội,,QH286,Hà Nội - HAN,21:55,00:05,A320-100/200, VND,40kg
+Hồ Chí Minh,Hà Nội,,VN204,Hà Nội - HAN,05:00,07:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN206,Hà Nội - HAN,06:00,08:10,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7204,Hà Nội - HAN,06:25,08:30,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN240,Hà Nội - HAN,07:00,09:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN208,Hà Nội - HAN,08:00,10:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN244,Hà Nội - HAN,09:00,11:20,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7252,Hà Nội - HAN,09:30,11:35,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN210,Hà Nội - HAN,10:00,12:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN246,Hà Nội - HAN,11:00,13:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN212,Hà Nội - HAN,12:00,14:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN248,Hà Nội - HAN,13:00,15:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN214,Hà Nội - HAN,14:00,16:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN250,Hà Nội - HAN,15:00,17:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN216,Hà Nội - HAN,16:00,18:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN252,Hà Nội - HAN,16:40,19:10,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN254,Hà Nội - HAN,17:00,19:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7220,Hà Nội - HAN,17:30,19:35,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN218,Hà Nội - HAN,18:00,20:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN258,Hà Nội - HAN,19:00,21:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN262,Hà Nội - HAN,19:35,21:40,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN220,Hà Nội - HAN,20:00,22:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN256,Hà Nội - HAN,20:45,22:50,350, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN260,Hà Nội - HAN,21:00,23:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7216,Hà Nội - HAN,21:30,23:35,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN224,Hà Nội - HAN,22:00,00:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN270,Hà Nội - HAN,23:00,01:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN204,Hà Nội - HAN,05:00,07:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN206,Hà Nội - HAN,06:00,08:10,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7204,Hà Nội - HAN,06:25,08:30,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN240,Hà Nội - HAN,07:00,09:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN208,Hà Nội - HAN,08:00,10:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN244,Hà Nội - HAN,09:00,11:20,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7252,Hà Nội - HAN,09:30,11:35,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN210,Hà Nội - HAN,10:00,12:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN246,Hà Nội - HAN,11:00,13:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN212,Hà Nội - HAN,12:00,14:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN248,Hà Nội - HAN,13:00,15:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN214,Hà Nội - HAN,14:00,16:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN250,Hà Nội - HAN,15:00,17:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN216,Hà Nội - HAN,16:00,18:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN252,Hà Nội - HAN,16:40,19:10,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN254,Hà Nội - HAN,17:00,19:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7220,Hà Nội - HAN,17:30,19:35,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN218,Hà Nội - HAN,18:00,20:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN258,Hà Nội - HAN,19:00,21:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN262,Hà Nội - HAN,19:35,21:40,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN220,Hà Nội - HAN,20:00,22:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN256,Hà Nội - HAN,20:45,22:50,350, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN260,Hà Nội - HAN,21:00,23:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7216,Hà Nội - HAN,21:30,23:35,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN224,Hà Nội - HAN,22:00,00:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN270,Hà Nội - HAN,23:00,01:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN204,Hà Nội - HAN,05:00,07:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN206,Hà Nội - HAN,06:00,08:10,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7204,Hà Nội - HAN,06:25,08:30,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN240,Hà Nội - HAN,07:00,09:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN208,Hà Nội - HAN,08:00,10:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN244,Hà Nội - HAN,09:00,11:20,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7252,Hà Nội - HAN,09:30,11:35,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN210,Hà Nội - HAN,10:00,12:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN246,Hà Nội - HAN,11:00,13:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN212,Hà Nội - HAN,12:00,14:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN248,Hà Nội - HAN,13:00,15:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN214,Hà Nội - HAN,14:00,16:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN250,Hà Nội - HAN,15:00,17:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN216,Hà Nội - HAN,16:00,18:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN252,Hà Nội - HAN,16:40,19:10,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN254,Hà Nội - HAN,17:00,19:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7220,Hà Nội - HAN,17:30,19:35,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN218,Hà Nội - HAN,18:00,20:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN258,Hà Nội - HAN,19:00,21:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN262,Hà Nội - HAN,19:35,21:40,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN220,Hà Nội - HAN,20:00,22:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN256,Hà Nội - HAN,20:45,22:50,350, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN260,Hà Nội - HAN,21:00,23:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7216,Hà Nội - HAN,21:30,23:35,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN224,Hà Nội - HAN,22:00,00:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN270,Hà Nội - HAN,23:00,01:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN204,Hà Nội - HAN,05:00,07:05,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN204,Hà Nội - HAN,05:00,07:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN206,Hà Nội - HAN,06:00,08:10,A350-900, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN206,Hà Nội - HAN,06:00,08:10,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7204,Hà Nội - HAN,06:25,08:30,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN7204,Hà Nội - HAN,06:25,08:30,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN240,Hà Nội - HAN,07:00,09:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN208,Hà Nội - HAN,08:00,10:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN244,Hà Nội - HAN,09:00,11:20,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7252,Hà Nội - HAN,09:30,11:35,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN210,Hà Nội - HAN,10:00,12:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN246,Hà Nội - HAN,11:00,13:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN212,Hà Nội - HAN,12:00,14:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN248,Hà Nội - HAN,13:00,15:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN214,Hà Nội - HAN,14:00,16:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN250,Hà Nội - HAN,15:00,17:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN216,Hà Nội - HAN,16:00,18:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN252,Hà Nội - HAN,16:40,19:10,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN254,Hà Nội - HAN,17:00,19:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7220,Hà Nội - HAN,17:30,19:35,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN218,Hà Nội - HAN,18:00,20:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN258,Hà Nội - HAN,19:00,21:15,A350-900, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN262,Hà Nội - HAN,19:35,21:40,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN220,Hà Nội - HAN,20:00,22:15,787, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN256,Hà Nội - HAN,20:45,22:50,350, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN256,Hà Nội - HAN,20:45,22:50,350, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN260,Hà Nội - HAN,21:00,23:05,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN260,Hà Nội - HAN,21:00,23:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN7216,Hà Nội - HAN,21:30,23:35,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN7216,Hà Nội - HAN,21:30,23:35,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN224,Hà Nội - HAN,22:00,00:05,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN224,Hà Nội - HAN,22:00,00:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VN270,Hà Nội - HAN,23:00,01:05,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN270,Hà Nội - HAN,23:00,01:05,A321, VND,1 kiện x 23kg
+Hồ Chí Minh,Hà Nội,,VU750,Hà Nội - HAN,05:45,07:50,A321, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,VU720,Hà Nội - HAN,18:50,21:10,A321, VND,Vui lòng chọn ở bước tiếp theo
+Hồ Chí Minh,Hà Nội,,QH244,Hà Nội - HAN,15:15,17:25,A321, VND,40kg
+Hồ Chí Minh,Hà Nội,,QH278,Hà Nội - HAN,20:35,22:45,A321, VND,40kg
+Hồ Chí Minh,Hà Nội,,VJ1132,Hà Nội - HAN,01:20,03:30,A320-100/200, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ1136,Hà Nội - HAN,01:20,03:30,A320-100/200, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ182,Hà Nội - HAN,04:55,07:10,A321, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ198,Hà Nội - HAN,05:25,07:35,A320-100/200, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ120,Hà Nội - HAN,06:00,08:10,A320-100/200, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ122,Hà Nội - HAN,07:00,09:10,A330, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ126,Hà Nội - HAN,08:45,11:00,A321, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ1142,Hà Nội - HAN,09:30,11:40,A320-100/200, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ128,Hà Nội - HAN,09:45,11:55,A330, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ130,Hà Nội - HAN,10:10,12:20,A330, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ172,Hà Nội - HAN,12:10,14:20,A330, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ134,Hà Nội - HAN,12:30,14:40,A330, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ136,Hà Nội - HAN,13:20,15:30,A330, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ140,Hà Nội - HAN,14:40,16:50,A321, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ142,Hà Nội - HAN,15:30,17:40,A320-100/200, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ144,Hà Nội - HAN,16:35,18:45,A330, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ148,Hà Nội - HAN,16:50,18:55,A321, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ154,Hà Nội - HAN,18:30,20:40,A320-100/200, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ156,Hà Nội - HAN,19:40,21:50,A330, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ166,Hà Nội - HAN,20:15,22:25,A320-100/200, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ158,Hà Nội - HAN,20:50,23:00,A320-100/200, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ160,Hà Nội - HAN,21:55,00:05,A320-100/200, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ184,Hà Nội - HAN,22:15,00:25,A330, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ192,Hà Nội - HAN,22:15,00:25,A320-100/200, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ176,Hà Nội - HAN,22:20,00:10,A321, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ162,Hà Nội - HAN,22:50,01:00,A321, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ194,Hà Nội - HAN,23:00,01:10,A320-100/200, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ1138,Hà Nội - HAN,23:25,01:35,A320-100/200, VND,30kg
+Hồ Chí Minh,Hà Nội,,VJ180,Hà Nội - HAN,23:55,02:05,A320-100/200, VND,30kg
+Hồ Chí Minh,Hà Nội,,VN204,Hà Nội - HAN,05:00,07:05,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN206,Hà Nội - HAN,06:00,08:10,A350-900, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN7204,Hà Nội - HAN,06:25,08:30,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN256,Hà Nội - HAN,20:45,22:50,350, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN260,Hà Nội - HAN,21:00,23:05,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN7216,Hà Nội - HAN,21:30,23:35,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN224,Hà Nội - HAN,22:00,00:05,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN270,Hà Nội - HAN,23:00,01:05,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,QH202,Hà Nội - HAN,05:25,07:35,A321, VND,40kg
+Hồ Chí Minh,Hà Nội,,QH244,Hà Nội - HAN,15:15,17:25,A321, VND,40kg
+Hồ Chí Minh,Hà Nội,,QH278,Hà Nội - HAN,20:35,22:45,A321, VND,40kg
+Hồ Chí Minh,Hà Nội,,QH286,Hà Nội - HAN,21:55,00:05,A320-100/200, VND,40kg
+Hồ Chí Minh,Hà Nội,,VN204,Hà Nội - HAN,05:00,07:05,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN206,Hà Nội - HAN,06:00,08:10,A350-900, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN7204,Hà Nội - HAN,06:25,08:30,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN240,Hà Nội - HAN,07:00,09:15,787, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN256,Hà Nội - HAN,20:45,22:50,350, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN260,Hà Nội - HAN,21:00,23:05,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN7216,Hà Nội - HAN,21:30,23:35,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN224,Hà Nội - HAN,22:00,00:05,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN270,Hà Nội - HAN,23:00,01:05,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VJ122,Hà Nội - HAN,07:00,09:10,A330, VND,40kg
+Hồ Chí Minh,Hà Nội,,VJ128,Hà Nội - HAN,09:45,11:55,A330, VND,40kg
+Hồ Chí Minh,Hà Nội,,VJ130,Hà Nội - HAN,10:10,12:20,A330, VND,40kg
+Hồ Chí Minh,Hà Nội,,VJ172,Hà Nội - HAN,12:10,14:20,A330, VND,40kg
+Hồ Chí Minh,Hà Nội,,VJ134,Hà Nội - HAN,12:30,14:40,A330, VND,40kg
+Hồ Chí Minh,Hà Nội,,VJ136,Hà Nội - HAN,13:20,15:30,A330, VND,40kg
+Hồ Chí Minh,Hà Nội,,VJ144,Hà Nội - HAN,16:35,18:45,A330, VND,40kg
+Hồ Chí Minh,Hà Nội,,VJ156,Hà Nội - HAN,19:40,21:50,A330, VND,40kg
+Hồ Chí Minh,Hà Nội,,VJ184,Hà Nội - HAN,22:15,00:25,A330, VND,40kg
+Hồ Chí Minh,Hà Nội,,VN204,Hà Nội - HAN,05:00,07:05,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN206,Hà Nội - HAN,06:00,08:10,A350-900, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN7204,Hà Nội - HAN,06:25,08:30,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN240,Hà Nội - HAN,07:00,09:15,787, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN208,Hà Nội - HAN,08:00,10:15,A350-900, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN244,Hà Nội - HAN,09:00,11:20,787, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN7252,Hà Nội - HAN,09:30,11:35,787, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN210,Hà Nội - HAN,10:00,12:15,A350-900, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN246,Hà Nội - HAN,11:00,13:15,A350-900, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN212,Hà Nội - HAN,12:00,14:15,A350-900, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN248,Hà Nội - HAN,13:00,15:15,787, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN214,Hà Nội - HAN,14:00,16:15,A350-900, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN250,Hà Nội - HAN,15:00,17:15,787, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN216,Hà Nội - HAN,16:00,18:15,A350-900, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN252,Hà Nội - HAN,16:40,19:10,787, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN254,Hà Nội - HAN,17:00,19:15,787, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN7220,Hà Nội - HAN,17:30,19:35,787, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN218,Hà Nội - HAN,18:00,20:15,A350-900, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN258,Hà Nội - HAN,19:00,21:15,A350-900, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN262,Hà Nội - HAN,19:35,21:40,787, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN220,Hà Nội - HAN,20:00,22:15,787, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN256,Hà Nội - HAN,20:45,22:50,350, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN260,Hà Nội - HAN,21:00,23:05,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN7216,Hà Nội - HAN,21:30,23:35,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN224,Hà Nội - HAN,22:00,00:05,A321, VND,1 kiện x 32kg
+Hồ Chí Minh,Hà Nội,,VN270,Hà Nội - HAN,23:00,01:05,A321, VND,1 kiện x 32kg

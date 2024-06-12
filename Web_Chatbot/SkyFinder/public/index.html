@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SkyFinder - Thông Tin Chuyến Bay</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="chatbot.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="logo">
+                <img src="Logoo.png" alt="SkyFinder Logo">
+            </div>
+            <h2>Thông Tin Chuyến Bay</h2>
+        </div>
+    </header>
+    <main>
+        <div class="search-options">
+            <div class="option-group">
+                <label for="departure">Điểm khởi hành:</label>
+                <select id="departure">
+                    <option value="">Chọn điểm khởi hành</option>
+                    <option value="Hồ Chí Minh (SGN)">Hồ Chí Minh (SGN)</option>
+                    <option value="Hà Nội (HAN)">Hà Nội (HAN)</option>
+                    <option value="Đà Nẵng (DAD)">Đà Nẵng (DAD)</option>
+                    <option value="Phú Quốc (PQC)">Phú Quốc (PQC)</option>
+                    <option value="Nha Trang (CXR)">Nha Trang (CXR)</option>
+                </select>
+            </div>
+            <div class="option-group">
+                <label for="arrival">Điểm đến:</label>
+                <select id="arrival">
+                    <option value="">Chọn điểm đến</option>
+                    <option value="Hồ Chí Minh (SGN)">Hồ Chí Minh (SGN)</option>
+                    <option value="Hà Nội (HAN)">Hà Nội (HAN)</option>
+                    <option value="Đà Nẵng (DAD)">Đà Nẵng (DAD)</option>
+                    <option value="Phú Quốc (PQC)">Phú Quốc (PQC)</option>
+                    <option value="Nha Trang (CXR)">Nha Trang (CXR)</option>
+                </select>
+            </div>
+            <div class="option-group">
+                <label for="date">Ngày:</label>
+                <input type="date" id="date">
+            </div>
+            <button id="search-btn">Tìm kiếm</button>
+        </div>
+
+        <div class="filter-options" style="display: none;">
+            <div class="option-group">
+                <label for="filter-airline">Hãng hàng không:</label>
+                <select id="filter-airline">
+                    <option value="">Tất cả</option>
+                    <option value="Vietnam Airlines">Vietnam Airlines</option>
+                    <option value="Vietjet Air">Vietjet Air</option>
+                    <option value="Bamboo Airways">Bamboo Airways</option>
+                    <option value="Vietravel Airlines">Vietravel Airlines</option>
+                </select>
+            </div>
+            <div class="option-group">
+                <label for="filter-time">Khung giờ:</label>
+                <select id="filter-time">
+                    <option value="">Tất cả</option>
+                    <option value="00:00-06:00">00:00 - 06:00</option>
+                    <option value="06:00-12:00">06:00 - 12:00</option>
+                    <option value="12:00-18:00">12:00 - 18:00</option>
+                    <option value="18:00-00:00">18:00 - 00:00</option>
+                </select>
+            </div>
+            <div class="option-group">
+                <label for="filter-class">Hạng vé:</label>
+                <select id="filter-class">
+                    <option value="">Tất cả</option>
+                    <option value="Eco">Eco</option>
+                    <option value="ECONOMY">ECONOMY</option>
+                    <option value="EconomySmart">EconomySmart</option>
+                    <option value="Phổ thông tiết kiệm">Phổ thông tiết kiệm</option>
+                    <option value="Deluxe">Deluxe</option>
+                </select>
+            </div>
+            <div class="option-group">
+                <label for="filter-price">Giá:</label>
+                <select id="filter-price">
+                    <option value="asc">Từ thấp đến cao</option>
+                    <option value="desc">Từ cao đến thấp</option>
+                </select>
+            </div>
+            <button id="filter-btn">Lọc</button>
+        </div>
+
+        <div class="loading-bar-container" style="visibility: hidden;">
+            <div class="loading-bar" id="loading-bar"></div>
+            <div class="loading-text" id="loading-text">Vui lòng chờ trong giây lát... <span id="loading-percentage">0</span>%</div>
+        </div>
+
+        <table id="flight-table">
+            <thead>
+                <tr>
+                    <th>Điểm khởi hành</th>
+                    <th>Điểm đến</th>
+                    <th>Hãng hàng không</th>
+                    <th>Số hiệu chuyến bay</th>
+                    <th>Ngày khởi hành</th>
+                    <th>Giờ khởi hành</th>
+                    <th>Giờ đến</th>
+                    <th>Thời gian bay</th>
+                    <th>Giá</th>
+                    <th>Hạng vé</th>
+                </tr>
+            </thead>
+            <tbody id="flight-data">
+                <!-- Flight data will be inserted here -->
+            </tbody>
+        </table>
+    </main>
+    
+    <div id="chatbot-icon">
+        <img src="iconbot.png" alt="Chatbot Icon">
+    </div>
+    <div id="chatbot" style="display: none;">
+        <div id="chatbot-header">SkyFinder ChatBot</div>
+        <div id="messages"></div>
+        <div id="user-input-container">
+            <input type="text" id="userInput" placeholder="Type a message...">
+            <button id="sendButton" onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    <script src="chatbot.js"></script>
+
+</body>
+</html>
+
+
+
+    <!-- <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+    <df-messenger
+        chat-title="SkyFinder_Chatbot"
+        agent-id="63967e2b-9608-4e17-bf83-1f9ac2281518"
+        language-code="vi"
+        chat-icon="iconbot.png">
+    </df-messenger> -->

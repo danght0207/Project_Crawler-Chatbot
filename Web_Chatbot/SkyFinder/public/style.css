@@ -1,0 +1,256 @@
+body {
+    background-image: url('bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #efc9af;
+    color: white;
+    padding: 0 2em;
+    height: auto;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    height: 100px; /* Set the height of the header-content to fit the logo */
+}
+
+header .logo {
+    position: absolute;
+    left: 0;
+    top: 50%; /* Center the logo vertically */
+    transform: translateY(-50%); /* Adjust for vertical centering */
+}
+
+header .logo img {
+    margin-top: 30px; /* Adjust the margin to center the logo vertically */
+    height: 220px; /* Adjust the height of the logo */
+    width: auto; /* Maintain aspect ratio */
+}
+
+header h2 {
+    font-family: 'Roboto', sans-serif; /* Sử dụng font Roboto */
+    font-weight: 700; /* Độ đậm của chữ */
+    font-size: 2em; /* Kích thước chữ */
+    color: #104c91; /* Màu chữ */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Đổ bóng chữ */
+    text-align: center; /* Canh giữa */
+    margin: 20px 0; /* Khoảng cách trên dưới */
+}
+
+main {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    /* background-color: rgba(255, 255, 255, 0.8); Thêm độ mờ để phần chính dễ đọc hơn */
+    background-color: rgba(239, 201, 175, 0.7);
+    padding: 30px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    transition: all 0.3s ease-in-out;
+}
+
+main:hover {
+    box-shadow: 0 0 25px rgba(0,0,0,0.15);
+}
+
+.search-options {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.option-group {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.option-group label {
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #555;
+}
+
+.option-group select,
+.option-group input {
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1em;
+    outline: none;
+    transition: border-color 0.3s;
+    background-color: #fff;
+}
+
+.option-group select:focus,
+.option-group input:focus {
+    border-color: #007BFF;
+    box-shadow: 0 0 5px rgba(0,123,255,0.5);
+}
+
+.search-options button {
+    flex: 1;
+    padding: 15px;
+    background-color: #1B468F;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1.2em;
+    transition: background-color 0.3s, transform 0.3s;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin-top: 20px; /* Ensure the button has some space from the input fields */
+}
+
+.search-options button:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-size: 1em;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+table tr:hover {
+    background-color: #0094D9; /* Màu nền khi hover */
+    cursor: pointer; /* Thay đổi con trỏ chuột thành con trỏ chỉ tay */
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+
+th {
+    background-color: #1B468F;
+    color: white;
+}
+
+/* Loại bỏ màu xen kẽ cho các dòng */
+tr {
+    background-color: #efc9af;
+}
+
+tr:nth-child(even) {
+    background-color: #efc9af;
+}
+
+tr:hover {
+    background-color: #f1f1f1;
+}
+
+@media (max-width: 768px) {
+    .option-group {
+        flex: 1 1 100%;
+    }
+
+    .search-options {
+        flex-direction: column;
+    }
+}
+
+.loading-bar-container {
+    position: relative;
+    width: 100%;
+    height: 30px; /* Tăng chiều cao của thanh loading */
+    background-color: #f3f3f3;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+
+.loading-bar {
+    width: 0;
+    height: 100%;
+    background-color: #0094D9;
+    transition: width 0.1s;
+    direction: rtl; /* Chạy thanh loading từ phải sang trái */
+}
+
+.loading-bar-container div {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    text-align: center;
+    line-height: 30px; /* Canh giữa dòng chữ */
+}
+
+/* Add styles for the filter options */
+.filter-options {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.option-group {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.option-group label {
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #555;
+}
+
+.option-group select {
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1em;
+    outline: none;
+    transition: border-color 0.3s;
+    background-color: #fff;
+}
+
+.option-group select:focus {
+    border-color: #007BFF;
+    box-shadow: 0 0 5px rgba(0,123,255,0.5);
+}
+
+/* Style for the filter button */
+#filter-btn {
+    padding: 15px;
+    background-color: #1B468F;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1.2em;
+    transition: background-color 0.3s, transform 0.3s;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin-top: 20px; /* Ensure the button has some space from the input fields */
+}
+
+#filter-btn:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+}
